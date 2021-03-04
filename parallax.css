@@ -1,0 +1,90 @@
+* {
+    border: 0px;
+    padding: 0px;
+}
+.img-p {
+    width:55%;
+    height:100%;
+    background-size:cover;
+    padding:23%;
+    background-position: center;
+}
+.font-p {
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+.sec-one {
+    position: relative;
+    background-image: url("./images/pic2.jpg");
+    background-attachment: fixed;
+}
+.scrl {
+    margin: 1px auto;
+    padding:1rem;
+    text-align: center;
+    width: 30%;
+    font-size:40px;
+    color: cornsilk;
+    background-color:rgb(155, 144, 144);
+}
+.demo {
+    text-align: center;
+    font-size: 2rem;
+    text-transform: capitalize;
+    letter-spacing:5px;
+    font-family: sans-serif;
+    padding:2rem;   
+    color: rgb(92, 87, 87);
+}
+.prp {
+border: 1px solid white;
+line-height:25px;
+word-spacing: 10px;
+text-align: justify;
+color: rgb(102, 96, 96);
+padding-bottom: 2rem;
+}
+.sec-three {
+    position: relative;
+    background-image: url("./images/pic4.jpg");
+    width:80%;
+    height:40%;
+    padding:10%;
+    background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
+
+}
+.cap {
+    margin: 1px auto;
+    padding:1rem;
+    text-align: center;
+    width: 30%;
+    font-size:40px;
+    color: rgb(255, 248, 220);
+    font-family: fantasy;
+    letter-spacing: 5px;
+}
+.sec-four {
+    background-color: rgb(102, 97, 97);
+    width:80%;
+    height:40%;
+    padding:10%;
+    background-position: center;
+}
+.ptp {
+    color: white;
+}
+.sec-five {
+    position:relative;
+    background-image: url("./images/pic1.jpg");
+    width:80%;
+    height:40%;
+    padding:10%;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
